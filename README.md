@@ -1,5 +1,3 @@
-# Data Science Assignment – ds_<yourname>
-
 🔗 Google Colab Notebook: [Open in Colab](https://colab.research.google.com/drive/1uZeonsylMEcW_NmZcFAZZdXxOig6rCYN?usp=sharing)
 
 ## Project Structure
